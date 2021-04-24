@@ -1,0 +1,18 @@
+p {
+  font-size: 20px;
+  color: green;
+  text-align: center;
+}
+
+
+img {
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
+}
+
+#books{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
